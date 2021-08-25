@@ -1,0 +1,309 @@
+--------- beginning of main
+08-25 12:44:30.712  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:32.225   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:44:32.225   698   698 E cnss-daemon: Stale or unreachable neighbors, ndm state: 16
+08-25 12:44:32.261   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:44:32.261   698   698 I cnss-daemon: NDA_DST received: 192.168.1.1 ul: 562992919980224
+08-25 12:44:32.261   698   698 I cnss-daemon: NDA_LLADDR received
+08-25 12:44:32.716  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:34.717  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:35.650 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:44:35.657 32591   635 D NetworkController.MobileSignalController(1): getDataNetTypeFromServiceState slotId=0  isUsingCarrierAggregation=false
+08-25 12:44:35.657 32591   635 D NetworkTypeUtils: getDataNetTypeFromServiceState:srcDataNetType = 13, destDataNetType 13
+08-25 12:44:35.659 32591   635 D MobileSignalController: updateDataType mSelectedDataTypeIcon[0]=151127205, mSelectedDataActivityIndex=6
+08-25 12:44:35.659 32591   635 D TelephonyIcons: getSignalStrengthIcon: slot=0, inetCondition=1, level=1, roaming=false, signalstrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 14 -120 -13 20 2147483647 2147483647 gsm|lte
+08-25 12:44:35.662 32591   635 D TelephonyIcons: null signal icon name: drawable/stat_sys_signal_null
+08-25 12:44:35.664 32591   635 D TelephonyIcons: getDataTypeIcon sub=0
+08-25 12:44:35.810 10413 10554 I nightwatch-target: monitor resources last 15000 iteration: 310384 msec
+08-25 12:44:36.718  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:38.210 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:44:38.719  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:40.722  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:40.764 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:44:42.724  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:44.446   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:44:44.447   698   698 E cnss-daemon: Stale or unreachable neighbors, ndm state: 4
+08-25 12:44:44.725  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:46.726  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:48.453 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:44:48.728  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:50.731  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:52.734  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:52.841 15196 15196 E bfgb    : Clearcut logging failed. Status code: 31003. Status message: Log dropped because of log cap for this log source exceeded.
+--------- beginning of system
+08-25 12:44:52.885 32281 32281 I DeviceStorageMonitorService: low memory, getMemLevel free memory is 480739328 level is 2
+08-25 12:44:53.071 15196 15196 E bfgb    : Clearcut logging failed. Status code: 31003. Status message: Log dropped because of log cap for this log source exceeded.
+08-25 12:44:54.736  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:54.969 15196 15196 E bfgb    : Clearcut logging failed. Status code: 31003. Status message: Log dropped because of log cap for this log source exceeded.
+08-25 12:44:55.568   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:44:55.568   698   698 E cnss-daemon: Stale or unreachable neighbors, ndm state: 16
+08-25 12:44:55.582   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:44:55.582   698   698 I cnss-daemon: NDA_DST received: 192.168.1.1 ul: 562992919980224
+08-25 12:44:55.582   698   698 I cnss-daemon: NDA_LLADDR received
+08-25 12:44:56.738  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:44:58.740  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:00.743  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:01.460 32591 32591 D KeyguardUpdateMonitor: handleTimeUpdate
+08-25 12:45:01.466 32591 32591 I KeyguardIndication: updateIndication: mVisible true mDozing false mTransientIndication null mPowerPluggedIn true mUpArrowIndication null
+08-25 12:45:01.486 16656 16656 D wpa_supplicant: wlan0: Control interface command 'SCAN TYPE=ONLY freq=2412,2417,2422,2427,2432,2437,2442,2447,2452,2457,2462,2467,2472'
+08-25 12:45:01.486 16656 16656 D wpa_supplicant: wlan0: Setting scan request: 0.000000 sec
+08-25 12:45:01.487 16656 16656 D wpa_supplicant: CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=212992 outq=0 send_len=3
+08-25 12:45:01.487 16656 16656 D wpa_supplicant: wlan0: Starting AP scan for wildcard SSID
+08-25 12:45:01.487 16656 16656 D wpa_supplicant: wlan0: Limit manual scan to specified channels
+08-25 12:45:01.487 16656 16656 D wpa_supplicant: wlan0: Add radio work 'scan'@0x7fad2199e0
+08-25 12:45:01.488 16656 16656 D wpa_supplicant: wlan0: First radio work item in the queue - schedule start immediately
+08-25 12:45:01.488 16656 16656 D wpa_supplicant: wlan0: Starting radio work 'scan'@0x7fad2199e0 after 0.000184 second wait
+08-25 12:45:01.488 16656 16656 D wpa_supplicant: wlan0: nl80211: scan request
+08-25 12:45:01.488 16656 16656 D wpa_supplicant: nl80211: Scan SSID - hexdump(len=0): [NULL]
+08-25 12:45:01.488 16656 16656 D wpa_supplicant: nl80211: Scan extra IEs - hexdump(len=7): 7f 05 00 00 0a 02 01
+08-25 12:45:01.488 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2412 MHz
+08-25 12:45:01.488 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2417 MHz
+08-25 12:45:01.488 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2422 MHz
+08-25 12:45:01.488 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2427 MHz
+08-25 12:45:01.489 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2432 MHz
+08-25 12:45:01.489 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2437 MHz
+08-25 12:45:01.489 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2442 MHz
+08-25 12:45:01.489 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2447 MHz
+08-25 12:45:01.489 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2452 MHz
+08-25 12:45:01.489 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2457 MHz
+08-25 12:45:01.489 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2462 MHz
+08-25 12:45:01.489 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2467 MHz
+08-25 12:45:01.489 16656 16656 D wpa_supplicant: nl80211: Scan frequency 2472 MHz
+08-25 12:45:01.491 16656 16656 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+08-25 12:45:01.491 16656 16656 D wpa_supplicant: nl80211: Event message available
+08-25 12:45:01.491 16656 16656 D wpa_supplicant: nl80211: Drv Event 33 (NL80211_CMD_TRIGGER_SCAN) received for wlan0
+08-25 12:45:01.491 16656 16656 D wpa_supplicant: wlan0: nl80211: Scan trigger
+08-25 12:45:01.491 16656 16656 D wpa_supplicant: wlan0: Event SCAN_STARTED (47) received
+08-25 12:45:01.491 16656 16656 D wpa_supplicant: wlan0: Own scan request started a scan in 0.000597 seconds
+08-25 12:45:01.492 16656 16656 D wpa_supplicant: CTRL-DEBUG: ctrl_sock-sendmsg: sock=8 sndbuf=212992 outq=768 send_len=24
+08-25 12:45:01.492 16656 16656 D wpa_supplicant: CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_32281-141\x00
+08-25 12:45:01.961 16656 16656 D wpa_supplicant: nl80211: Event message available
+08-25 12:45:01.961 16656 16656 D wpa_supplicant: nl80211: Drv Event 34 (NL80211_CMD_NEW_SCAN_RESULTS) received for wlan0
+08-25 12:45:01.961 16656 16656 D wpa_supplicant: wlan0: nl80211: New scan results available
+08-25 12:45:01.961 16656 16656 D wpa_supplicant: nl80211: Scan included frequencies: 2412 2417 2422 2427 2432 2437 2442 2447 2452 2457 2462 2467 2472
+08-25 12:45:01.962 16656 16656 D wpa_supplicant: wlan0: Event SCAN_RESULTS (3) received
+08-25 12:45:01.962 16656 16656 D wpa_supplicant: wlan0: Scan completed in 0.470250 seconds
+08-25 12:45:01.962 16656 16656 D wpa_supplicant: nl80211: Associated on 2452 MHz
+08-25 12:45:01.962 16656 16656 D wpa_supplicant: nl80211: Associated with 44:95:3b:04:90:50
+08-25 12:45:01.962 16656 16656 D wpa_supplicant: nl80211: Received scan results (2 BSSes)
+08-25 12:45:01.962 16656 16656 D wpa_supplicant: nl80211: Scan results indicate BSS status with 44:95:3b:04:90:50 as associated
+08-25 12:45:01.963 16656 16656 D wpa_supplicant: wlan0: BSS: Start scan result update 116
+08-25 12:45:01.963 16656 16656 D wpa_supplicant: wlan0: BSS: Add new id 24 BSSID c4:70:0b:50:8e:17 SSID 'BSNL FTTH Poorna' freq 2432
+08-25 12:45:01.963 16656 16656 D wpa_supplicant: CTRL-DEBUG: ctrl_sock-sendmsg: sock=8 sndbuf=212992 outq=0 send_len=41
+08-25 12:45:01.963 16656 16656 D wpa_supplicant: CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_32281-141\x00
+08-25 12:45:01.963 16656 16656 D wpa_supplicant: BSS: last_scan_res_used=2/32
+08-25 12:45:01.963 16656 16656 D wpa_supplicant: wlan0: Scan-only results received
+08-25 12:45:01.963 16656 16656 D wpa_supplicant: CTRL-DEBUG: ctrl_sock-sendmsg: sock=8 sndbuf=212992 outq=0 send_len=24
+08-25 12:45:01.964 16656 16656 D wpa_supplicant: CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_32281-141\x00
+08-25 12:45:01.964 16656 16656 D wpa_supplicant: wlan0: Radio work 'scan'@0x7fad2199e0 done in 0.475962 seconds
+08-25 12:45:01.964 16656 16656 D wpa_supplicant: wlan0: radio_work_free('scan'@0x7fad2199e0: num_active_works --> 0
+08-25 12:45:01.967 16656 16656 D wpa_supplicant: CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=212992 outq=0 send_len=1604
+08-25 12:45:01.969 16656 16656 D wpa_supplicant: CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=212992 outq=0 send_len=0
+08-25 12:45:01.971  2236 10213 I PowerCenterProvider: call METHOD_GET_BATTERY_INFO
+08-25 12:45:01.971 32281 32560 E AppScanObserverService: Result available, null observers for user: 0
+08-25 12:45:01.972  2236 10213 W BatteryHistoryLoadMgr: getHistoryInfo begin
+08-25 12:45:01.972 16656 16656 D wpa_supplicant: CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=212992 outq=0 send_len=1604
+08-25 12:45:01.975 16656 16656 D wpa_supplicant: CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=212992 outq=0 send_len=0
+08-25 12:45:01.979 32281 32525 D WifiQualifiedNetworkSelector:: ==========start qualified Network Selection==========
+08-25 12:45:01.980 32281  1097 E BatteryStatsService: no controller energy info supplied
+08-25 12:45:01.981 32281  1097 E BatteryStatsService: no controller energy info supplied
+08-25 12:45:01.982 32281 32525 D WifiQualifiedNetworkSelector:: Current network is: "SSID1-2.4G" ,ID is: 99
+08-25 12:45:01.983 32281 32525 D WifiQualifiedNetworkSelector:: Quit qualified Network Selection since it is not forced and current network is qualified already
+08-25 12:45:01.993 32281  1097 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+08-25 12:45:02.137 32281  2013 V OSNPGlue_jni: Entering  : void onJavaLocationChanged(JNIEnv *, jobject, jboolean, jlong, jboolean, jlong, jboolean, jdouble, jboolean, jdouble, jboolean, jfloat, jboolean, jdouble, jboolean, jfloat, jboolean, jfloat, jboolean, jint)
+08-25 12:45:02.139 32281   477 E IzatSvc_ComboNetworkProvider: E/Exiting with error virtual void izat_manager::ComboNetworkProvider::reportLocationMsg::proc() const line 187 "1"
+08-25 12:45:02.214  2236 10213 W BatteryHistoryLoadMgr: get firstHistoryInfo time: 454719656
+08-25 12:45:02.214  2236 10213 D BatteryHistoryLoadMgr: getHistoryInfo end
+08-25 12:45:02.225  2236 10213 I PowerUtils: Device name:ugg
+08-25 12:45:02.225  2236 10213 W PowerUtils: should not use this capacity value 3080
+08-25 12:45:02.231  2236 10213 I PowerUtils: Device name:ugg
+08-25 12:45:02.232  2236 10213 W PowerUtils: should not use this capacity value 3080
+08-25 12:45:02.234   646 25739 I Places  : Converted 2 out of 2 WiFi scans
+08-25 12:45:02.238  2236 10213 W BatteryChargeTimeHelper: Use max, leftChargeTime 1h30m52s800ms maxChargeTime 1h22m8s
+08-25 12:45:02.240  2236 10213 I PowerUtils: Device name:ugg
+08-25 12:45:02.241  2236 10213 W PowerUtils: should not use this capacity value 3080
+08-25 12:45:02.244  2236 10213 I PowerUtils: Device name:ugg
+08-25 12:45:02.245  2236 10213 W PowerUtils: should not use this capacity value 3080
+08-25 12:45:02.251  2236 10213 I BatteryChargeTimeHelper: Mixed(default) charge time 0.2 59m45s436ms
+08-25 12:45:02.252  2236 10213 I PowerUtils: Device name:ugg
+08-25 12:45:02.252  2236 10213 W PowerUtils: should not use this capacity value 3080
+08-25 12:45:02.259  2236 10213 I PowerCenterProvider: call METHOD_GET_POWER_SUPPLY_INFO, quick_charge:false
+08-25 12:45:02.421   646 11090 I GCoreUlr: DispatchingService.updateActiveState+PowerModeReceiver: Ensuring that reporting is active for [account#-5#]
+08-25 12:45:02.436   646 11090 I GCoreUlr: GMS FLP location updates requested: {"description":"default","newRequest":true,"samplePeriodMs":120000,"sampleReason":"default","sampleSource":"internal","timestampMs":1629875702225}
+08-25 12:45:02.464 11095 11095 W CombinedTP16: type=1400 audit(0.0:434756): avc: denied { read } for name="mem" dev="debugfs" ino=10721322 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+08-25 12:45:02.464 11095 11095 W CombinedTP16: type=1400 audit(0.0:434757): avc: denied { read } for name="mem" dev="debugfs" ino=10721322 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+08-25 12:45:02.498   646 11090 I GCoreUlr: Successfully inserted 1 locations
+08-25 12:45:02.624 10533 10533 W CombinedTP3: type=1400 audit(0.0:434758): avc: denied { read } for name="mem" dev="debugfs" ino=10721322 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+08-25 12:45:02.624 10533 10533 W CombinedTP3: type=1400 audit(0.0:434759): avc: denied { read } for name="mem" dev="debugfs" ino=10721322 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+08-25 12:45:02.650   646 11090 I GCoreUlr: Successfully inserted 1 locations
+08-25 12:45:02.663   646 11825 W NetworkScheduler: The Firebase Job Dispatcher and GmsTaskScheduler are deprecated for apps targeting API 30 or newer. Application com.facebook.katana has targetSdkVersion 30. Please migrate to the WorkManager or JobScheduler.
+08-25 12:45:02.664   646 11825 W NetworkScheduler: Running in whitelist mode. Ignoring task: com.facebook.katana/com.facebook.backgroundlocation.reporting.periodic.PeriodicSignalCollectorGcmService{u=0 tag="PeriodicSignalCollection" trigger=window{start=300s,end=420s,earliest=299s,latest=419s} requirements=[NET_ANY] attributes=[] scheduled=0s last_run=N/A jid=N/A status=UNKNOWN retries=0 client_lib=MANCHEGO_GCM-12451000}
+08-25 12:45:02.744  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:03.083   646 10431 I GCoreUlr: LocationReporter sending 8 locations, 2 activities, and 9 metadata for account account#-5# request #0; requests: []
+08-25 12:45:03.463   698   698 I cnss-daemon: RTM_NEWROUTE Indication
+08-25 12:45:03.463   698   698 I cnss-daemon: ip type is ipv6
+08-25 12:45:03.465   698   698 E cnss-daemon: gateway ipv6 address: fe80::1
+08-25 12:45:03.465   698   698 E cnss-daemon: gateway mac address: %02x:%02x:%02x:%02x:%02x:%02x
+08-25 12:45:03.465   698   698 E cnss-daemon: : 00:00:00:00:00:00
+08-25 12:45:03.466   698   698 E cnss-daemon: Invalid mac address: 0x555555f110M
+08-25 12:45:03.466   646   681 I art     : Background sticky concurrent mark sweep GC freed 77984(4MB) AllocSpace objects, 44(1236KB) LOS objects, 15% free, 30MB/36MB, paused 2.336ms total 124.405ms
+08-25 12:45:03.493 10413 11095 D cloudgaminginterceptor: request intercepted: url=https://graph.facebook.com/me/locationupdates
+08-25 12:45:03.494 10413 11095 D relenginterceptor: RELENG rewrite skipped, config is disabled.
+08-25 12:45:03.494 10413 11095 D defcontigonrelayernative: DefconTigonDelayer starting
+08-25 12:45:03.494 10413 11095 D defcontigonrelayernative: DefconTigonDelayer skipped, config is disabled.
+08-25 12:45:03.501 10413 10533 D cloudgaminginterceptor: request intercepted: url=https://graph.facebook.com/graphql
+08-25 12:45:03.502 10413 10533 D relenginterceptor: RELENG rewrite skipped, config is disabled.
+08-25 12:45:03.502 10413 10533 D defcontigonrelayernative: DefconTigonDelayer starting
+08-25 12:45:03.502 10413 10533 D defcontigonrelayernative: DefconTigonDelayer skipped, config is disabled.
+08-25 12:45:03.539   698   698 I cnss-daemon: RTM_NEWROUTE Indication
+08-25 12:45:03.539   698   698 I cnss-daemon: ip type is ipv6
+08-25 12:45:03.553   698   698 I cnss-daemon: RTM_NEWROUTE Indication
+08-25 12:45:03.553   698   698 I cnss-daemon: ip type is ipv6
+08-25 12:45:03.580   646 10431 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-25 12:45:03.668   646 10431 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@201817020@20.18.17 (040406-311416286):2)
+08-25 12:45:03.668   646 10431 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@201817020@20.18.17 (040406-311416286):0)
+08-25 12:45:03.722   646 10431 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-25 12:45:03.722   646 10431 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@201817020@20.18.17 (040406-311416286):2)
+08-25 12:45:03.723   646 10431 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@201817020@20.18.17 (040406-311416286):0)
+08-25 12:45:03.804 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:45:03.872   646 10431 I Auth    : [AccountStatusChecker] OnDataChanged check: <ELLIDED:-1573452663>
+08-25 12:45:03.880   646 10431 I Auth    : [AccountStatusChecker] Canceling for <ELLIDED:-1573452663>
+08-25 12:45:03.997   646 11090 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-25 12:45:04.011   646 11090 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@201817020@20.18.17 (040406-311416286):2)
+08-25 12:45:04.012   646 11090 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@201817020@20.18.17 (040406-311416286):0)
+08-25 12:45:04.060   646 11090 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-25 12:45:04.061   646 11090 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@201817020@20.18.17 (040406-311416286):2)
+08-25 12:45:04.061   646 11090 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@201817020@20.18.17 (040406-311416286):0)
+08-25 12:45:04.477   646 10431 I GCoreUlr: Batch Location Update succeeded for account account#-5#
+08-25 12:45:04.748  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:06.750  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:07.644 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:45:08.547   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:45:08.548   698   698 E cnss-daemon: Stale or unreachable neighbors, ndm state: 16
+08-25 12:45:08.548   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:45:08.549   698   698 I cnss-daemon: NDA_DST received: fe80::1 ul: 33022
+08-25 12:45:08.549   698   698 I cnss-daemon: NDA_LLADDR received
+08-25 12:45:08.551   698   698 E cnss-daemon: gateway ipv6 address: fe80::1
+08-25 12:45:08.551   698   698 E cnss-daemon: gateway mac address: %02x:%02x:%02x:%02x:%02x:%02x
+08-25 12:45:08.551   698   698 E cnss-daemon: : 44:95:3b:04:90:50
+08-25 12:45:08.552   698   698 E cnss-daemon: gw update message successfully sent
+08-25 12:45:08.753  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:10.755  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:12.757  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:14.658   646 10431 I GCoreUlr: DispatchingService.updateActiveState+PowerModeReceiver: Ensuring that reporting is active for [account#-5#]
+08-25 12:45:14.674   646 10431 I GCoreUlr: GMS FLP location updates requested: {"description":"stationary","newRequest":true,"samplePeriodMs":2160000,"sampleReason":"stationary","sampleSource":"internal","timestampMs":1629875714360}
+08-25 12:45:14.761  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:14.783   646 10431 I GCoreUlr: Successfully inserted 1 locations
+08-25 12:45:16.763  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:18.766  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:19.445   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:45:19.445   698   698 E cnss-daemon: Stale or unreachable neighbors, ndm state: 4
+08-25 12:45:20.768  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:22.771  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:24.774  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:26.295   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:45:26.295   698   698 E cnss-daemon: Stale or unreachable neighbors, ndm state: 16
+08-25 12:45:26.298   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:45:26.298   698   698 I cnss-daemon: NDA_DST received: 192.168.1.1 ul: 562992919980224
+08-25 12:45:26.299   698   698 I cnss-daemon: NDA_LLADDR received
+08-25 12:45:26.775  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:28.777  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:30.126   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:45:30.126   698   698 E cnss-daemon: Stale or unreachable neighbors, ndm state: 4
+08-25 12:45:30.690 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:45:30.780  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:32.782  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:34.524 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:45:34.785  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:36.787  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:38.487   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:45:38.487   698   698 E cnss-daemon: Stale or unreachable neighbors, ndm state: 4
+08-25 12:45:38.790  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:39.648 32591   635 D NetworkController.MobileSignalController(1): 4G level = 0
+08-25 12:45:39.655 32591   635 D NetworkController.MobileSignalController(1): getDataNetTypeFromServiceState slotId=0  isUsingCarrierAggregation=false
+08-25 12:45:39.655 32591   635 D NetworkTypeUtils: getDataNetTypeFromServiceState:srcDataNetType = 13, destDataNetType 13
+08-25 12:45:39.658 32591   635 D MobileSignalController: updateDataType mSelectedDataTypeIcon[0]=151127205, mSelectedDataActivityIndex=6
+08-25 12:45:39.658 32591   635 D TelephonyIcons: getSignalStrengthIcon: slot=0, inetCondition=1, level=0, roaming=false, signalstrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 13 -121 -14 2 2147483647 2147483647 gsm|lte
+08-25 12:45:39.661 32591   635 D TelephonyIcons: null signal icon name: drawable/stat_sys_signal_null
+08-25 12:45:39.663 32591   635 D TelephonyIcons: getDataTypeIcon sub=0
+08-25 12:45:40.793  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:42.795  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:44.766 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:45:44.772 32591   635 D NetworkController.MobileSignalController(1): getDataNetTypeFromServiceState slotId=0  isUsingCarrierAggregation=false
+08-25 12:45:44.773 32591   635 D NetworkTypeUtils: getDataNetTypeFromServiceState:srcDataNetType = 13, destDataNetType 13
+08-25 12:45:44.775 32591   635 D MobileSignalController: updateDataType mSelectedDataTypeIcon[0]=151127205, mSelectedDataActivityIndex=6
+08-25 12:45:44.775 32591   635 D TelephonyIcons: getSignalStrengthIcon: slot=0, inetCondition=1, level=1, roaming=false, signalstrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 13 -120 -12 8 2147483647 2147483647 gsm|lte
+08-25 12:45:44.778 32591   635 D TelephonyIcons: null signal icon name: drawable/stat_sys_signal_null
+08-25 12:45:44.780 32591   635 D TelephonyIcons: getDataTypeIcon sub=0
+08-25 12:45:44.798  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:46.800  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:47.330 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:45:48.803  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:49.885 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:45:50.805  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:51.177   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:45:51.177   698   698 E cnss-daemon: Stale or unreachable neighbors, ndm state: 16
+08-25 12:45:51.180   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:45:51.180   698   698 I cnss-daemon: NDA_DST received: 192.168.1.1 ul: 562992919980224
+08-25 12:45:51.180   698   698 I cnss-daemon: NDA_LLADDR received
+08-25 12:45:52.806  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:52.859 15196 15196 E bfgb    : Clearcut logging failed. Status code: 31003. Status message: Log dropped because of log cap for this log source exceeded.
+08-25 12:45:52.890 32281 32281 I DeviceStorageMonitorService: low memory, getMemLevel free memory is 480759808 level is 2
+08-25 12:45:53.080 15196 15196 E bfgb    : Clearcut logging failed. Status code: 31003. Status message: Log dropped because of log cap for this log source exceeded.
+08-25 12:45:53.730 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:45:54.808  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:54.979 15196 15196 E bfgb    : Clearcut logging failed. Status code: 31003. Status message: Log dropped because of log cap for this log source exceeded.
+08-25 12:45:56.811  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:57.570 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:45:58.812  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:45:59.543  2236  3158 I PowerCenterProvider: call METHOD_GET_POWER_SUPPLY_INFO, quick_charge:false
+08-25 12:45:59.543  2236 12901 I PowerCenterProvider: call METHOD_GET_POWER_SUPPLY_INFO, quick_charge:false
+08-25 12:45:59.545  2236 10213 I PowerCenterProvider: call METHOD_GET_POWER_SUPPLY_INFO, quick_charge:false
+08-25 12:46:00.815  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:02.690 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:46:02.817  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:03.126   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:46:03.126   698   698 E cnss-daemon: Stale or unreachable neighbors, ndm state: 4
+08-25 12:46:04.283  7277  7305 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.content.ContextWrapper.bindService:646 com.xiaomi.a.c.b.czq:-1 com.xiaomi.a.c.b.czp:-1 com.xiaomi.a.c.i.czA:-1 
+08-25 12:46:04.381  7277  7305 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.content.ContextWrapper.bindService:646 com.xiaomi.a.c.b.czq:-1 com.xiaomi.a.c.b.czp:-1 com.xiaomi.a.c.i.czA:-1 
+08-25 12:46:04.467  7277  7305 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.content.ContextWrapper.bindService:646 com.xiaomi.a.c.b.czq:-1 com.xiaomi.a.c.b.czp:-1 com.xiaomi.a.c.i.czA:-1 
+08-25 12:46:04.575  7277  7305 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.content.ContextWrapper.bindService:646 com.xiaomi.a.c.b.czq:-1 com.xiaomi.a.c.b.czp:-1 com.xiaomi.a.c.i.czA:-1 
+08-25 12:46:04.819  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:06.821  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:07.803 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:46:08.824  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:10.370 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:46:10.825  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:11.084 10522 10522 W CombinedHandler: type=1400 audit(0.0:434760): avc: denied { read } for name="mem" dev="debugfs" ino=10721322 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+08-25 12:46:11.084 10522 10522 W CombinedHandler: type=1400 audit(0.0:434761): avc: denied { read } for name="mem" dev="debugfs" ino=10721322 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+08-25 12:46:12.828  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:12.931 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:46:14.831  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:16.055   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:46:16.055   698   698 E cnss-daemon: Stale or unreachable neighbors, ndm state: 16
+08-25 12:46:16.061   698   698 I cnss-daemon: RTM_NEWNEIGH message received: 28
+08-25 12:46:16.061   698   698 I cnss-daemon: NDA_DST received: 192.168.1.1 ul: 562992919980224
+08-25 12:46:16.061   698   698 I cnss-daemon: NDA_LLADDR received
+08-25 12:46:16.832  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:17.767 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:46:18.833  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:18.834 10522 10522 W CombinedHandler: type=1400 audit(0.0:434762): avc: denied { read } for name="mem" dev="debugfs" ino=10721322 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+08-25 12:46:18.834 10522 10522 W CombinedHandler: type=1400 audit(0.0:434763): avc: denied { read } for name="mem" dev="debugfs" ino=10721322 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+08-25 12:46:20.834  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:22.837  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:24.839  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:25.730 32591   635 D NetworkController.MobileSignalController(1): 4G level = 1
+08-25 12:46:26.841  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:28.843  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:28.967 26911  2641 D IdProviderImpl: getOAID
+08-25 12:46:29.000   698   698 I cnss-daemon: RTM_NEWROUTE Indication
+08-25 12:46:29.000   698   698 I cnss-daemon: ip type is ipv6
+08-25 12:46:29.003   698   698 E cnss-daemon: gateway ipv6 address: fe80::1
+08-25 12:46:29.003   698   698 E cnss-daemon: gateway mac address: %02x:%02x:%02x:%02x:%02x:%02x
+08-25 12:46:29.003   698   698 E cnss-daemon: : 00:00:00:00:00:00
+08-25 12:46:29.003   698   698 E cnss-daemon: Invalid mac address: 0x555555f110M
+08-25 12:46:29.462 26911  2641 W Analytics-Core-TrackingServer: http response is empty
+08-25 12:46:30.846  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:32.848  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:34.850  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
+08-25 12:46:36.853  9380  9499 E ServiceScheduleManager: Enter loop()!!! is sync = 
